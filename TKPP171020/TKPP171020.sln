@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TKPP171020", "TKPP171020\TKPP171020.vcxproj", "{BB792560-0EFC-44E1-94C0-392B582821FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Debug|x64.ActiveCfg = Debug|x64
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Debug|x64.Build.0 = Debug|x64
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Debug|x86.Build.0 = Debug|Win32
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Release|x64.ActiveCfg = Release|x64
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Release|x64.Build.0 = Release|x64
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Release|x86.ActiveCfg = Release|Win32
+		{BB792560-0EFC-44E1-94C0-392B582821FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5151D80-2561-404D-BBC5-425E617410B0}
+	EndGlobalSection
+EndGlobal
